@@ -1,9 +1,7 @@
 👋 Hi, I’m @amuyakkala
 - 👀 I’m interested in backend development, databases, and cloud computing.
-- 🌱 I’m currently learning Express.js and MongoDB for backend development, as well as AWS for cloud services.
 - 💞️ I’m looking to collaborate on full-stack web projects where I can contribute to backend development.
 - 📫 How to reach me: You can reach me via email at [amulyay.work@gmail.com](mailto:amulyay.work@gmail.com) or connect with me on LinkedIn at [linkedin.com/in/amuyakkala](https://www.linkedin.com/in/amuyakkala).
-- 😄 Pronouns: She/her
 - ⚡ Fun fact: I enjoy creating study playlists tailored to boost productivity and focus!
 
 <!---
