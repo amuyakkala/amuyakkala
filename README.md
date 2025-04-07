@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ### 📈 GitHub Stats
 
-![GitHub contribution graph](https://github-readme-stats.vercel.app/api?username=amuyakkala&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=amuyakkala&show_icons=true&count_private=true&theme=radical)
