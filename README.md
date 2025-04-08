@@ -55,14 +55,12 @@ amuyakkala/amuyakkala is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align="center">🚀 Amuyakkala on GitHub</h2>
-
 <p align="center">
   <i>“Building, contributing, and always learning.”</i>
 </p>
 
 ---
 
-<### 🔥 Contribution Streak
 
+### 🔥 Contribution Streak  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amuyakkala&theme=radical)](https://github.com/amuyakkala)
