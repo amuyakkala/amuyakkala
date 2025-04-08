@@ -16,14 +16,15 @@ jobs:
         run: |
           curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=amuyakkala&show_icons=true&count_private=true&theme=radical&include_all_commits=true&cache_seconds=1800"
 
-      - name: Create or update auto-stats branch with stats.svg
+      - name: Push to auto-stats branch
         run: |
-          git checkout --orphan auto-stats
-          git reset
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
+          git checkout --orphan auto-stats
+          git reset
           git add stats.svg
-          git commit -m "Update GitHub stats image"
+          git commit -m "Update GitHub stats"
           git push -f origin auto-stats
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
