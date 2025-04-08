@@ -60,7 +60,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
-
-
-### 📊 GitHub Stats
-[![Amulya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amuyakkala&show_icons=true&theme=radical)](https://github.com/amuyakkala)
+![GitHub Stats](https://raw.githubusercontent.com/amuyakkala/amuyakkala/auto-stats/stats.svg)
