@@ -62,5 +62,5 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-### 🔥 Contribution Streak  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amuyakkala&theme=radical)](https://github.com/amuyakkala)
+### 📊 GitHub Stats
+[![Amulya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amuyakkala&show_icons=true&theme=radical)](https://github.com/amuyakkala)
