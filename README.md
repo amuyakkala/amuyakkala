@@ -8,16 +8,6 @@
 amuyakkala/amuyakkala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![My GitHub Stats](https://raw.githubusercontent.com/amuyakkala/amuyakkala/auto-stats/stats.svg)
-<h2 align="center">🚀 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amuyakkala/amuyakkala/auto-stats/stats.svg" alt="GitHub Stats" width="600">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amuyakkala&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amuyakkala&theme=github-compact&hide_border=true" alt="Contribution Graph" />
