@@ -23,16 +23,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amuyakkala&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
----
-
-<h3 align="center">📊 GitHub Stats (Public + Private)</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amuyakkala&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
 <p align="center">
   💬 <b>Currently working on:</b> Energy Insight Dashboard & Cloud Automation  
   <br>📫 <b>Reach me at:</b> <a href="mailto:amulyay.work@gmail.com">amulyay.work@gmail.com</a>
