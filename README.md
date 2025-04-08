@@ -63,13 +63,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<h3 align="center">🔥 Contribution Streak</h3>
+<### 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amuyakkala&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  💬 <b>Currently working on:</b> Energy Insight Dashboard & Cloud Automation  
-  <br>📫 <b>Reach me at:</b> <a href="mailto:amulyay.work@gmail.com">amulyay.work@gmail.com</a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amuyakkala&theme=radical)](https://github.com/amuyakkala)
