@@ -9,9 +9,31 @@ amuyakkala/amuyakkala is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align="center">📊 Contribution Heatmap</h2>
+<h2 align="center">🚀 Amuyakkala on GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amuyakkala&theme=github-compact&hide_border=true" />
+  <i>“Building, contributing, and always learning.”</i>
 </p>
->
+
+---
+
+<h3 align="center">🔥 Contribution Streak</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amuyakkala&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">📊 Overall Contributions</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amuyakkala&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<p align="center">
+  💬 <b>Currently working on:</b> Energy Insight Dashboard & Cloud Automation  
+  <br>📫 <b>Reach me:</b> amuyakkala@gmail.com
+</p>
