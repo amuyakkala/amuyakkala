@@ -59,6 +59,3 @@ You can click the Preview link to take a look at your changes.
   <i>“Building, contributing, and always learning.”</i>
 </p>
 
----
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=amuyakkala&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=10)](https://github.com/amuyakkala)
-
