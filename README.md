@@ -24,7 +24,7 @@ This mix of backend development and AI is something I'm incredibly excited about
 
 ### 🚀 Tech I Enjoy Working With
 
-- **Frontend:** React, TypeScript, Tailwind CSS
+- **Frontend:** React, TypeScript, Next.js, Tailwind CSS
 - **Backend:** Spring Boot, FastAPI, Node.js, Django
 - **Databases:** PostgreSQL, MongoDB, Redis
 - **DevOps & Cloud:** AWS (EC2, Lambda, S3), Docker, Kubernetes, Terraform, GitHub Actions
